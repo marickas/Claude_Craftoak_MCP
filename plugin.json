@@ -1,0 +1,32 @@
+{
+  "name": "craftoak",
+  "displayName": "CraftOak",
+  "version": "1.0.0",
+  "description": "Create and customize city map posters, preview designs, compare print sizes and frame options, and open checkout for physical prints.",
+  "author": {
+    "name": "CraftOak",
+    "url": "https://www.craftoak.com"
+  },
+  "homepage": "https://www.craftoak.com/faq",
+  "repository": "https://github.com/craftoak/craftoak-claude-plugin",
+  "license": "UNLICENSED",
+  "keywords": [
+    "maps",
+    "map-poster",
+    "posters",
+    "prints",
+    "gifts",
+    "wall-art",
+    "city-map"
+  ],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://www.craftoak.com/faq",
+  "supportUrl": "https://www.craftoak.com/faq",
+  "privacyPolicyUrl": "https://www.craftoak.com/privacy-policy",
+  "termsOfServiceUrl": "https://www.craftoak.com/terms-of-service",
+  "metadata": {
+    "category": "Creativity",
+    "commerce": true,
+    "commerceDescription": "Users purchase personalized physical map posters, optionally framed, through external checkout. Payments are processed by Stripe. No digital downloads or subscriptions are offered."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "craftoak": {
+      "type": "http",
+      "url": "https://www.craftoak.com/api/mcp",
+      "timeout": 120000
+    }
+  }
+}

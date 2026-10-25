@@ -1,0 +1,19 @@
+{
+  "name": "craftoak",
+  "owner": {
+    "name": "CraftOak",
+    "url": "https://www.craftoak.com"
+  },
+  "metadata": {
+    "description": "CraftOak custom map poster tools for Claude"
+  },
+  "plugins": [
+    {
+      "name": "craftoak",
+      "source": "./",
+      "description": "Create and customize city map posters, preview designs, compare print sizes and frame options, and open checkout for physical prints.",
+      "category": "productivity",
+      "homepage": "https://www.craftoak.com"
+    }
+  ]
+}
